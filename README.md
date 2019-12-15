@@ -1,4 +1,5 @@
-# EnText
+![EnText Logo](https://github.com/mr-ravin/entext/blob/master/ic_launcher.png)
+
 This repository contains an android application able to perform text encryption using AES128 bit encryption mechanism.
 
 #### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
