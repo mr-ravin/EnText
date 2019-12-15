@@ -3,9 +3,9 @@ This repository contains an android application able to perform text encryption 
 
 #### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
 
-![alt text](https://github.com/mr-ravin/entext/blob/master/EnText.JPG)
+![android application view 1](https://github.com/mr-ravin/entext/blob/master/EnText.png)
 
-![alt text](https://github.com/mr-ravin/entext/blob/master/EnText_aboutus.JPG)
+![android application view 2](https://github.com/mr-ravin/entext/blob/master/EnText_aboutus.png)
 
 ##### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Developer.
 
