@@ -8,6 +8,4 @@ This repository contains an android application able to perform text encryption 
 
 ![android application view 2](https://github.com/mr-ravin/entext/blob/master/EnText_aboutus.png)
 
-##### Note: This work can be used freely after providing citation and/or deserved credits to this work. 
-
-##### NOTE: Please use this android application at your own risk !!!
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use this android application at your own risk !!!
