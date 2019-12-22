@@ -9,7 +9,7 @@ This repository contains an android application able to perform text encryption 
 ![android application view 2](https://github.com/mr-ravin/entext/blob/master/EnText_aboutus.png)
 
 ### Working Android Application Video
-The working demonstration of Private Dock Cloud is available at [Youtube](https://www.youtube.com/watch?v=QKmt0vchY8U).
+The working demonstration of EnText is available at [Youtube](https://www.youtube.com/watch?v=QKmt0vchY8U).
 
 ```python
 
