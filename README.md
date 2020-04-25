@@ -2,6 +2,8 @@
 
 This repository contains an android application able to perform text encryption using AES128 bit encryption mechanism.
 
+##### Download EnText version 1: [Download Here](https://drive.google.com/open?id=1feLZ_e0xj6UYgDHdgJX-4WaXAZXoCmu0)
+
 #### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
 
 [![Working Demonstration](https://github.com/mr-ravin/EnText/blob/master/EnText.gif)](https://www.youtube.com/watch?v=DksVTPSwE2A)
