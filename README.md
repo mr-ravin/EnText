@@ -2,7 +2,7 @@
 
 ![EnText Logo](https://github.com/mr-ravin/entext/blob/master/ic_launcher.png)
 
-EnText is an opensource text encryption tool for Android. EnText uses AES-128 bit with CBC, which is considered good for providing security for general use cases, please do consult your cybersecurity adviser if your are looking for a very specific use case.
+EnText is an opensource text encryption tool for Android. EnText uses AES-128 bit with CBC, which is considered good for providing security for general use cases, please do consult your cybersecurity adviser if you are looking for a very specific use case.
 
 #### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
 
