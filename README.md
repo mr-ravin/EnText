@@ -10,6 +10,8 @@ EnText is an opensource text encryption tool for Android. EnText uses AES-128 bi
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.entext)
 
+#### Working Demonstration:
+
 [![Working Demonstration](https://github.com/mr-ravin/EnText/blob/master/EnText.gif)](https://www.youtube.com/watch?v=DksVTPSwE2A)
 
 ![android application view 2](https://github.com/mr-ravin/entext/blob/master/EnText_aboutus.png)
