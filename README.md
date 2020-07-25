@@ -1,10 +1,14 @@
 ![EnText Logo](https://github.com/mr-ravin/entext/blob/master/ic_launcher.png)
 
-This repository contains an android application able to perform text encryption using AES128 bit encryption mechanism.
-
-##### Download EnText version 1: [Download Here](https://drive.google.com/open?id=1feLZ_e0xj6UYgDHdgJX-4WaXAZXoCmu0)
+EnText is an opensource text encryption tool for Android. EnText uses AES-128 bit with CBC, which is considered good for providing security for general use cases, please do consult your cybersecurity adviser if your are looking for a very specific use case.
 
 #### Application Developer: [Ravin Kumar](http://mr-ravin.github.io)
+
+#### Algorithm Detail: AES-128 bit (using AES/CBC/PKCS5Padding and PBKDF2WithHmacSHA1)
+
+### Download FileCrypt from Google PlayStore:
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.entext)
 
 [![Working Demonstration](https://github.com/mr-ravin/EnText/blob/master/EnText.gif)](https://www.youtube.com/watch?v=DksVTPSwE2A)
 
