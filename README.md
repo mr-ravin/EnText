@@ -10,8 +10,8 @@ EnText is an opensource text encryption tool for Android. EnText uses AES-128 bi
 
 |Target OS Details|Number|
 |-----------------|------|
-| Android OS Version| 10 |
-| Android Target SDK| 29 |
+| Android OS Version| 11 |
+| Android Target SDK| 30 |
 | API Levels        | 16+ |
 
 ### Download EnText from Google PlayStore:
