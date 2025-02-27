@@ -9,7 +9,7 @@ EnText is an opensource text encryption tool for Android. EnText uses AES-128 bi
 
 -----
 
-#### Application Detail: AES-128 bit (using AES/CBC/PKCS5Padding and PBKDF2WithHmacSHA1)
+##### Application Detail: AES-128 bit (using AES/CBC/PKCS5Padding and PBKDF2WithHmacSHA1)
 
 |Target OS Details|Number|
 |-----------------|------|
